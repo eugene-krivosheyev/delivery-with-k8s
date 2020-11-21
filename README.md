@@ -1,27 +1,43 @@
-CI/CD delivery with Kubernetes
-==============================
+CI, CD and Operations with Kubernetes
+=====================================
 8 hrs.
 
 Agenda
 ======
 
+CI/CD
+-----
+
 - [ ] Локальное окружение с Kubernetes
-- [ ] Docker образы и их жизненный цикл
 - [ ] CI/CD
+- [ ] Docker образы и их жизненный цикл в CI/CD Pipeline
 - [ ] Организация работы продуктовых команд
 - [ ] Практика Build, практика Deploy
+
+Мониторинг
+----------
+
 - [ ] Мониторинг в Kubernetes
 - [ ] Probes
 - [ ] Метрики Kubernetes
 - [ ] Prometheus & Prometheus Operator
-- [ ] Практика. Подключение приложения к Prometheus, создание Dashboard в Grafana
+- [ ] Подключение приложения к Prometheus, создание Dashboard в Grafana
+
 
 ---
+
+
+Журналирование
+--------------
 
 - [ ] Логирование в Kubernetes
 - [ ] Сбор логов в Kubernetes
 - [ ] Сбор логов в организации
-- [ ] Filebeat. Практика
+- [ ] Filebeat
+
+PKS
+---
+
 - [ ] VMware PKS
 - [ ] Компоненты платформы
 - [ ] Архитектура платформы
